@@ -3,7 +3,7 @@ This is for Mac installation guide.
 
 1: check the mysql character and they should be utf8
 
-KaiZhaos-MacBook-Pro:~ kaizhao$ mysql -uroot -p
+K-MacBook-Pro:~ K$ mysql -uroot -p
 Enter password: 
 Welcome to the MySQL monitor.  Commands end with ; or \g.
 Your MySQL connection id is 1319
